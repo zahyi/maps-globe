@@ -1,0 +1,362 @@
+[
+ {
+   "Area": "Angola",
+   "Area harvested (ha)": 23259,
+   "Production (t)": 281164.65,
+   "Yield (100 g": {
+      "ha)": 120886
+   }
+},
+ {
+   "Area": "Benin",
+   "Area harvested (ha)": 41126,
+   "Production (t)": 734370.14,
+   "Yield (100 g": {
+      "ha)": 178566
+   }
+},
+ {
+   "Area": "Brazil",
+   "Area harvested (ha)": 200527,
+   "Production (t)": 2952129,
+   "Yield (100 g": {
+      "ha)": 147219
+   }
+},
+ {
+   "Area": "Burundi",
+   "Area harvested (ha)": 9154,
+   "Production (t)": 88621.41,
+   "Yield (100 g": {
+      "ha)": 96816
+   }
+},
+ {
+   "Area": "Cambodia",
+   "Area harvested (ha)": 42560,
+   "Production (t)": 451135.85,
+   "Yield (100 g": {
+      "ha)": 105999
+   }
+},
+ {
+   "Area": "Cameroon",
+   "Area harvested (ha)": 206624,
+   "Production (t)": 2821661.3,
+   "Yield (100 g": {
+      "ha)": 136560
+   }
+},
+ {
+   "Area": "Central African Republic",
+   "Area harvested (ha)": 640,
+   "Production (t)": 5885.19,
+   "Yield (100 g": {
+      "ha)": 91901
+   }
+},
+ {
+   "Area": "China",
+   "Area harvested (ha)": 50737,
+   "Production (t)": 670416.44,
+   "Yield (100 g": {
+      "ha)": 132136
+   }
+},
+ {
+   "Area": "China, mainland",
+   "Area harvested (ha)": 50737,
+   "Production (t)": 670416.44,
+   "Yield (100 g": {
+      "ha)": 132136
+   }
+},
+ {
+   "Area": "Colombia",
+   "Area harvested (ha)": 487076,
+   "Production (t)": 8030241.91,
+   "Yield (100 g": {
+      "ha)": 164866
+   }
+},
+ {
+   "Area": "Congo",
+   "Area harvested (ha)": 12658,
+   "Production (t)": 157681.26,
+   "Yield (100 g": {
+      "ha)": 124566
+   }
+},
+ {
+   "Area": "Costa Rica",
+   "Area harvested (ha)": 71009,
+   "Production (t)": 1168132.68,
+   "Yield (100 g": {
+      "ha)": 164505
+   }
+},
+ {
+   "Area": "Côte d'Ivoire",
+   "Area harvested (ha)": 400000,
+   "Production (t)": 2800000,
+   "Yield (100 g": {
+      "ha)": 70000
+   }
+},
+ {
+   "Area": "Democratic Republic of the Congo",
+   "Area harvested (ha)": 348146,
+   "Production (t)": 2290720.16,
+   "Yield (100 g": {
+      "ha)": 65798
+   }
+},
+ {
+   "Area": "Dominican Republic",
+   "Area harvested (ha)": 23000,
+   "Production (t)": 318443.8,
+   "Yield (100 g": {
+      "ha)": 138454
+   }
+},
+ {
+   "Area": "Ecuador",
+   "Area harvested (ha)": 141381,
+   "Production (t)": 2296402.23,
+   "Yield (100 g": {
+      "ha)": 162426
+   }
+},
+ {
+   "Area": "Equatorial Guinea",
+   "Area harvested (ha)": 3963,
+   "Production (t)": 40689.39,
+   "Yield (100 g": {
+      "ha)": 102660
+   }
+},
+ {
+   "Area": "Gabon",
+   "Area harvested (ha)": 7551,
+   "Production (t)": 23037.2,
+   "Yield (100 g": {
+      "ha)": 30508
+   }
+},
+ {
+   "Area": "Gambia",
+   "Area harvested (ha)": 3516,
+   "Production (t)": 35111.96,
+   "Yield (100 g": {
+      "ha)": 99874
+   }
+},
+ {
+   "Area": "Ghana",
+   "Area harvested (ha)": 365678,
+   "Production (t)": 2503782.96,
+   "Yield (100 g": {
+      "ha)": 68470
+   }
+},
+ {
+   "Area": "Guatemala",
+   "Area harvested (ha)": 215000,
+   "Production (t)": 3030238.78,
+   "Yield (100 g": {
+      "ha)": 140941
+   }
+},
+ {
+   "Area": "Guinea",
+   "Area harvested (ha)": 330467,
+   "Production (t)": 883552.28,
+   "Yield (100 g": {
+      "ha)": 26736
+   }
+},
+ {
+   "Area": "Guinea-Bissau",
+   "Area harvested (ha)": 9578,
+   "Production (t)": 80878.12,
+   "Yield (100 g": {
+      "ha)": 84438
+   }
+},
+ {
+   "Area": "Honduras",
+   "Area harvested (ha)": 225000,
+   "Production (t)": 2124081,
+   "Yield (100 g": {
+      "ha)": 94404
+   }
+},
+ {
+   "Area": "Indonesia",
+   "Area harvested (ha)": 14953126,
+   "Production (t)": 256829530.7,
+   "Yield (100 g": {
+      "ha)": 171756
+   }
+},
+ {
+   "Area": "Liberia",
+   "Area harvested (ha)": 19202,
+   "Production (t)": 190388.49,
+   "Yield (100 g": {
+      "ha)": 99149
+   }
+},
+ {
+   "Area": "Madagascar",
+   "Area harvested (ha)": 1814,
+   "Production (t)": 21038.96,
+   "Yield (100 g": {
+      "ha)": 115998
+   }
+},
+ {
+   "Area": "Malaysia",
+   "Area harvested (ha)": 5135576,
+   "Production (t)": 92500000,
+   "Yield (100 g": {
+      "ha)": 180116
+   }
+},
+ {
+   "Area": "Mexico",
+   "Area harvested (ha)": 115137,
+   "Production (t)": 1619026.88,
+   "Yield (100 g": {
+      "ha)": 140618
+   }
+},
+ {
+   "Area": "Nicaragua",
+   "Area harvested (ha)": 34894,
+   "Production (t)": 495594.95,
+   "Yield (100 g": {
+      "ha)": 142029
+   }
+},
+ {
+   "Area": "Nigeria",
+   "Area harvested (ha)": 4907531,
+   "Production (t)": 12608938.08,
+   "Yield (100 g": {
+      "ha)": 25693
+   }
+},
+ {
+   "Area": "Panama",
+   "Area harvested (ha)": 24716,
+   "Production (t)": 250056.63,
+   "Yield (100 g": {
+      "ha)": 101173
+   }
+},
+ {
+   "Area": "Papua New Guinea",
+   "Area harvested (ha)": 237770,
+   "Production (t)": 3035092.13,
+   "Yield (100 g": {
+      "ha)": 127648
+   }
+},
+ {
+   "Area": "Paraguay",
+   "Area harvested (ha)": 15680,
+   "Production (t)": 148127.65,
+   "Yield (100 g": {
+      "ha)": 94470
+   }
+},
+ {
+   "Area": "Peru",
+   "Area harvested (ha)": 91947,
+   "Production (t)": 1400177.58,
+   "Yield (100 g": {
+      "ha)": 152281
+   }
+},
+ {
+   "Area": "Philippines",
+   "Area harvested (ha)": 63381,
+   "Production (t)": 533398.52,
+   "Yield (100 g": {
+      "ha)": 84158
+   }
+},
+ {
+   "Area": "Sao Tome and Principe",
+   "Area harvested (ha)": 1980,
+   "Production (t)": 18787.93,
+   "Yield (100 g": {
+      "ha)": 94871
+   }
+},
+ {
+   "Area": "Senegal",
+   "Area harvested (ha)": 11863,
+   "Production (t)": 130885.28,
+   "Yield (100 g": {
+      "ha)": 110334
+   }
+},
+ {
+   "Area": "Sierra Leone",
+   "Area harvested (ha)": 46991,
+   "Production (t)": 359024.43,
+   "Yield (100 g": {
+      "ha)": 76403
+   }
+},
+ {
+   "Area": "Solomon Islands",
+   "Area harvested (ha)": 26000,
+   "Production (t)": 363852.15,
+   "Yield (100 g": {
+      "ha)": 139943
+   }
+},
+ {
+   "Area": "Suriname",
+   "Area harvested (ha)": 552,
+   "Production (t)": 1100.75,
+   "Yield (100 g": {
+      "ha)": 19947
+   }
+},
+ {
+   "Area": "Thailand",
+   "Area harvested (ha)": 984060,
+   "Production (t)": 19061392,
+   "Yield (100 g": {
+      "ha)": 193702
+   }
+},
+ {
+   "Area": "Togo",
+   "Area harvested (ha)": 65389,
+   "Production (t)": 587949.11,
+   "Yield (100 g": {
+      "ha)": 89916
+   }
+},
+ {
+   "Area": "United Republic of Tanzania",
+   "Area harvested (ha)": 5453,
+   "Production (t)": 77104.33,
+   "Yield (100 g": {
+      "ha)": 141399
+   }
+},
+ {
+   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area harvested (ha)": 54788,
+   "Production (t)": 567615.36,
+   "Yield (100 g": {
+      "ha)": 103603
+   }
+}
+]
